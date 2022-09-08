@@ -1,2 +1,2 @@
-# Curso-cousera-num-1
+# ScorpionStar.github.io
 Para meu curso de HTML, CSS e Javascript para desenvolvedores da Web!
